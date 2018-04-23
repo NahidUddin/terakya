@@ -1,1 +1,1 @@
-worker: node terakya
+worker: node 
